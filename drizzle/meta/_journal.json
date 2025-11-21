@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762633800216,
+      "tag": "0000_acoustic_exiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762633859233,
+      "tag": "0001_violet_vapor",
+      "breakpoints": true
+    }
+  ]
+}
